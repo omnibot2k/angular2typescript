@@ -1,3 +1,4 @@
+carrie1!!!
 This is a repository for code samples for the book by Yakov Fain and Anton Moiseev <a href="https://www.amazon.com/Angular-Development-TypeScript-Yakov-Fain/dp/1617293121">Angular 2 Development with TypeScript</a>. 
 
 All code samples were upgraded to Angular 2.0 or later releases. 
